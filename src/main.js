@@ -1,3 +1,3 @@
 import "./style.css";
 
-console.log("hello");
+let canvas = document.querySelector("#canvas1");

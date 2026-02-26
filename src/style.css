@@ -1,0 +1,14 @@
+body{
+    background-color: #141414;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0px;
+}
+#canvas1{
+   margin: 100px;
+    width: 400px;
+    height: 400px;
+    border: 1px solid #fff;
+    display: block;
+    background-color: #c3c4c4;
+}
